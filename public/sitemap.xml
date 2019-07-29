@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://daebum.com/about/</loc>
+    <lastmod>2019-07-26T18:36:45+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://daebum.com/</loc>
+    <lastmod>2019-07-26T18:36:45+09:00</lastmod>
     <priority>0</priority>
   </url>
   

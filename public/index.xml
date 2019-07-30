@@ -20,5 +20,14 @@
       <description>The opinions stated here are my own, not necessarily those of my company. All feedback is welcome.</description>
     </item>
     
+    <item>
+      <title>test</title>
+      <link>http://daebum.com/blog/my-first-post/</link>
+      <pubDate>Fri, 26 Jul 2019 18:20:00 +0900</pubDate>
+      
+      <guid>http://daebum.com/blog/my-first-post/</guid>
+      <description>test</description>
+    </item>
+    
   </channel>
 </rss>
